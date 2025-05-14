@@ -11,4 +11,3 @@ export class AppController {
   }
 }
 
-     console.log('cap-team');;;
