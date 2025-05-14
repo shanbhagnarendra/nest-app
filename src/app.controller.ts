@@ -7,7 +7,6 @@ export class AppController {
 
   @Get()
   getHello(): string {
-    console.log('hello');
     return;
     console.log('cap-team');;;;
     console.log('cap-team');;;
