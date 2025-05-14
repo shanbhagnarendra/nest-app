@@ -9,7 +9,7 @@ export class AppController {
   getHello(): string {
     console.log('hello');
     console.log('cap-team');;;;
-    console.log('cap-team');;;;
+    console.log('cap-team');;;
     return this.appService.getHello();
   }
 }
