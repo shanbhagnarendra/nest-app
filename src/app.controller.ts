@@ -8,7 +8,6 @@ export class AppController {
   @Get()
   getHello(): string {
     return;
-    console.log('cap-team');;;;
     return this.appService.getHello();
   }
 }
