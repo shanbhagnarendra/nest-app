@@ -7,7 +7,7 @@ export class AppService {
     const password2 = 'sdf*sf'
     console.log(param);
     console.log(password2);
-    console.log('scan security..', password);
+    console.log('latest scan security..', password);
     return 'Hello World!';
   }
 }
