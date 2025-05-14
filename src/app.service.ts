@@ -4,8 +4,10 @@ import { Injectable } from '@nestjs/common';
 export class AppService {
   getHello(param: string): string {
     const password = 'abc*123'
+    const password2 = 'sdf*sf'
     console.log(param);
-    console.log('scan security.........', password);
+    console.log(password2);
+    console.log('scan security.....', password);
     return 'Hello World!';
   }
 }
