@@ -11,5 +11,4 @@ export class AppController {
   }
 }
 
-getHelloForHackothonTeam() : string {
      console.log('cap-team');;;
