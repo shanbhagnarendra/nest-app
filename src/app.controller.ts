@@ -13,4 +13,3 @@ export class AppController {
 
 getHelloForHackothonTeam() : string {
      console.log('cap-team');;;
-     return this.appService.getHello();
