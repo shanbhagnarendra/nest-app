@@ -9,7 +9,6 @@ export class AppController {
   getHello(): string {
     return;
     console.log('cap-team');;;;
-    console.log('cap-team');;;
     return this.appService.getHello();
   }
 }
